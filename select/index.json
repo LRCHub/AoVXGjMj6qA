@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "World of move",
+  "base_artist": "move",
+  "createdAt": "2025-12-05T18:13:04.909925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Temple of the Moon - World of Warcraft",
+      "artist": "Erutan",
+      "has_synced": true,
+      "path": "select/01_Temple_of_the_Moon_-_World_of_Warcraft_Erutan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A World of Our Own",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/02_A_World_of_Our_Own_Sonny_James.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World Of Make Believe",
+      "artist": "Bill Anderson",
+      "has_synced": false,
+      "path": "select/03_World_Of_Make_Believe_Bill_Anderson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Thought the World of You",
+      "artist": "Lewis",
+      "has_synced": false,
+      "path": "select/04_I_Thought_the_World_of_You_Lewis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Welcome to the Wonderful World Of",
+      "artist": "LSD feat. Sia, Diplo & Labrinth",
+      "has_synced": true,
+      "path": "select/05_Welcome_to_the_Wonderful_World_Of_LSD_feat._Sia,_Diplo_&_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Welcome to the Wonderful World of",
+      "artist": "LSD",
+      "has_synced": true,
+      "path": "select/06_Welcome_to_the_Wonderful_World_of_LSD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World of Difference",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/07_World_of_Difference_Clannad.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World Of Change",
+      "artist": "Sonique",
+      "has_synced": true,
+      "path": "select/08_World_Of_Change_Sonique.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "World Of Stone",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/09_World_Of_Stone_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "World Of Love",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/10_World_Of_Love_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "World of Smiles",
+      "artist": "berlin",
+      "has_synced": false,
+      "path": "select/11_World_of_Smiles_berlin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World Of Freedom",
+      "artist": "Magic Affair",
+      "has_synced": false,
+      "path": "select/12_World_Of_Freedom_Magic_Affair.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World of Magic",
+      "artist": "Pharao",
+      "has_synced": false,
+      "path": "select/13_World_of_Magic_Pharao.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This World Of Ours",
+      "artist": "RAIGN",
+      "has_synced": true,
+      "path": "select/14_This_World_Of_Ours_RAIGN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Escape Pod (From the World of Medical Observations)",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/15_Escape_Pod_(From_the_World_of_Medical_Observations)_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "World Of Pain",
+      "artist": "Cream",
+      "has_synced": true,
+      "path": "select/16_World_Of_Pain_Cream.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The World Of Prisoners",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_The_World_Of_Prisoners_m.o.v.e.txt"
+    }
+  ]
+}
